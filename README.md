@@ -1,1 +1,5 @@
 # random-image-feed
+
+# Project Description:
+
+This project creates a dynamic webpage that displays a random image feed using the Lorem Picsum API. The page features an Instagram-like layout with image cards, and it implements infinite scrolling to fetch and display additional images as the user scrolls down. The project is built with HTML for the structure, CSS for styling, and JavaScript for handling API requests, DOM manipulation, and user interactions. As the user scrolls, the application dynamically fetches and appends new sets of images, enhancing the user experience with a seamless and visually engaging interface. Error handling and loading indicators are implemented to ensure a robust and user-friendly experience even in the face of API errors or delays. The use of asynchronous programming, promises, and event listeners contributes to the responsiveness and efficiency of the image feed application.
